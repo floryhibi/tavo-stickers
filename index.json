@@ -1,0 +1,12 @@
+{
+ "version": 1,
+ "packs": [
+  {
+   "id": "freaksonic",
+   "name": "Freaky Sonic",
+   "cover": "s063.webp",
+   "count": 118,
+   "path": "packs/freaksonic/"
+  }
+ ]
+}
