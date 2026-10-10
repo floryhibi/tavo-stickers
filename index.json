@@ -21,6 +21,13 @@
    "cover": "s006.webp",
    "count": 105,
    "path": "packs/love/"
+  },
+  {
+   "id": "pivo",
+   "name": "Пиво",
+   "cover": "s035.webp",
+   "count": 102,
+   "path": "packs/pivo/"
   }
  ]
 }
