@@ -14,6 +14,13 @@
    "cover": "s034.webp",
    "count": 42,
    "path": "packs/dankcards/"
+  },
+  {
+   "id": "love",
+   "name": "Любовь и нежность",
+   "cover": "s006.webp",
+   "count": 105,
+   "path": "packs/love/"
   }
  ]
 }
