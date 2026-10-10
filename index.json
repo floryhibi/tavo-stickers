@@ -28,6 +28,20 @@
    "cover": "s035.webp",
    "count": 102,
    "path": "packs/pivo/"
+  },
+  {
+   "id": "mood",
+   "name": "Mood",
+   "cover": "s018.webp",
+   "count": 119,
+   "path": "packs/mood/"
+  },
+  {
+   "id": "crashout",
+   "name": "Jami's crashout journal",
+   "cover": "s007.webp",
+   "count": 85,
+   "path": "packs/crashout/"
   }
  ]
 }
